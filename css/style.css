@@ -1,0 +1,109 @@
+.container
+	{
+
+margin: auto;
+
+margin-top: 30px;
+}
+.logo{
+
+}
+.menu{
+	margin-right: 10%;
+}
+.menu1
+{
+	margin-left: 24%;
+	display: inline;
+	float: left;
+}
+.menu2
+{
+	margin-left: 10%;
+	display: inline;
+	float: left;
+}
+.menu3
+{
+	margin-left: 10%;
+	display: inline;
+	float: left;
+}
+.menu4
+{
+	margin-left: 10%;
+	display: inline;
+	float: left;
+}
+.logo div{
+    
+}
+.logoad{
+	
+float: inherit;
+	
+margin-left: 10%;
+	
+float: left;
+}
+.banner{}
+.banner div{}
+.PHOTODIARY{
+    
+margin-left: 15%;
+    
+margin-right: 15%;
+}
+.h1{
+    height: 45px;
+    font-size: 35px;
+    
+}
+.blog1{
+    float: left;
+}
+.blog2{
+    display: inline;
+}
+.section3{
+    margin-top: 115px;
+}
+.p{
+    display: inline;
+    width: 30%;
+    color: #715120;
+    float: left;
+}
+.finishing{
+    float: left;
+    width: 100%;
+    background-color: #9e9e9e42;
+    padding: 30px;
+}
+.finishing1{
+    display: inline;
+    float: left;
+    margin-left: 12.50%;
+}
+.finishing2{
+    display: inline;
+    margin-left: 3%;
+    float: left;
+}
+.finishing3{
+    display: inline;
+    margin-left: 47%;
+    float: left;
+}
+.icon1{
+    float: left;
+    margin-left: 1%;
+}
+.icon2{
+    float: left;
+    margin-left: 1%;
+}
+.icon3{
+    float: left;
+    margin-left: 1%;
+}
